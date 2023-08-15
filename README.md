@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Dheeraj N Kashyap
-<h3 align="left">Data Detective: Unveiling Hidden Truths for Strategic Insights</h3></h1>
+<h1 align="center">Hi 👋, I'm Dheeraj N Kashyap
+<h3 align="center">Data Detective: Unveiling Hidden Truths for Strategic Insights</h3></h1>
 
 <h1>About Me</h1>
  
