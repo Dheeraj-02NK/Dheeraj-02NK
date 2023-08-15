@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dheeraj N Kashyap
-<h3 align="center">Data Detective: Unveiling Hidden Truths for Strategic Insights</h3></h1>
-
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wgu.edu%2Fcareer-guide%2Finformation-technology%2Fdata-analyst-career.html&psig=AOvVaw2GzUPj0PKcs_1pheu5Xmtf&ust=1692211308721000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj8zsKo34ADFQAAAAAdAAAAABAD">
+<h1 align="left">Hi 👋, I'm Dheeraj N Kashyap
+<h3 align="left">Data Detective: Unveiling Hidden Truths for Strategic Insights</h3></h1>
 
 <h1>About Me</h1>
  
