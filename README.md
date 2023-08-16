@@ -1,3 +1,4 @@
+
 <h1 align="center">Namaste , I'm Dheeraj N Kashyap
 <h3 align="center">Data Detective: Unveiling Hidden Truths for Strategic Insights</h3></h1>
 
@@ -40,9 +41,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-02nk&" alt="dheeraj-02nk" /></p>
 <a href="https://github.com/Dheeraj-02NK">
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dheeraj-02NK&theme=github" height="180em" /></p>
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dheeraj-02NK&theme=github" height="180em" /></p>
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dheeraj-02NK&theme=github" height="180em" /></p>
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dheeraj-02NK&theme=github" height="180em" /></p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-02NK&theme=github-light"/>
 </div>
 
