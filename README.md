@@ -2,12 +2,12 @@
 <h3 align="center">Data Detective: Unveiling Hidden Truths for Strategic Insights</h3></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dheeraj-02NK&label=Profile%20views&color=0e75b6&style=flat" alt="Dheeraj-02NK" height="30em"/> </p>
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dheeraj-02NK&theme=github" height="190em" />
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dheeraj-02NK&theme=github" height="190em" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dheeraj-02NK&theme=github" height="190em" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dheeraj-02NK&theme=github" height="190em" /></p>
 
 <h2 align="center">About Me</h2>
  
- **AI Enthusiast | Empowering Businesses through ML and AI | Data Analyst | Data Scientist | Generative AI Explorer | Transforming Data into Actionable Insights Hi! My name is Dheeraj N Kashyap, Welcome to my GitHub profile! I am dedicated to purse a fulfilling career in the dynamic fields of AI, Data Analysis, and Prompt Engineering. With a strong focus on AI, I strive to leverage my comprehensive skill set to empower businesses and drive informed decision-making through the power of data.**
+ **Hi! My name is Dheeraj N Kashyap, Welcome to my GitHub profile! I am dedicated to purse a fulfilling career in the dynamic fields of AI, Data Analysis, and Prompt Engineering. With a strong focus on AI, I strive to leverage my comprehensive skill set to empower businesses and drive informed decision-making through the power of data.**
  
  **🔍 Extracting Insights from Complex Datasets: I possess a deep understanding of data manipulation, statistical analysis, and data visualization techniques. My expertise lies in unlocking valuable insights hidden within complex datasets, enabling organizations to make data-driven decisions and gain a competitive edge.**
  
@@ -36,12 +36,12 @@
 <h2 align="center">Statistics</h2>
 <div> 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-02nk&show_icons=true&locale=en&layout=compact" alt="dheeraj-02nk" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-02nk&show_icons=true&locale=en" alt="dheeraj-02nk" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-02nk&" alt="dheeraj-02nk" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-02nk&show_icons=true&locale=en" alt="dheeraj-02nk" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-02nk&" alt="dheeraj-02nk" /></p>
 <a href="https://github.com/Dheeraj-02NK">
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dheeraj-02NK&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dheeraj-02NK&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dheeraj-02NK&theme=github" height="180em" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dheeraj-02NK&theme=github" height="180em" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dheeraj-02NK&theme=github" height="180em" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dheeraj-02NK&theme=github" height="180em" /></p>
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dheeraj-02NK&theme=github" height="180em" /></p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-02NK&theme=github-light"/>
 </div>
